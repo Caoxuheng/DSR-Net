@@ -1,12 +1,6 @@
+![TITLE](https://github.com/Caoxuheng/imgs/blob/main/OL.png)
 # Unsupervised Spectral Reconstruction from RGB images under Two Lighting Conditions
-This is a unrolled deep network that recoconstructs the hyperspectral image from RGB images captures under two lighting conditions in an unsupervised manner.  
-***The paper has been submitted to a journal***  
-# Flowchart
-**None**
-# Result presentation
-
-
-# Guidance
+This is an unsupervised unrolled deep network that recoconstructs the hyperspectral image from RGB images captures under two lighting conditions.  
 
 # Requirements
 ## Environment
