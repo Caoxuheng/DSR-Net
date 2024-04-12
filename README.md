@@ -1,5 +1,5 @@
 ![TITLE](https://github.com/Caoxuheng/imgs/blob/main/OL.png)
-# Unsupervised Spectral Reconstruction from RGB images under Two Lighting Conditions
+# [Unsupervised Spectral Reconstruction from RGB images under Two Lighting Conditions](https://doi.org/10.1364/OL.517007)
 This is an unsupervised unrolled deep network that recoconstructs the hyperspectral image from RGB images captures under two lighting conditions.  
 
 # Requirements
